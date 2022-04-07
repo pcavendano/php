@@ -144,6 +144,8 @@ function afficherPiedDePage($societe, $annee)
   echo calculerMontantTTC(1000); // affiche 1149.75
 </p>
 
+<img src="./img/fonctions-internes-php.png" alt="prise decran des focntions internes de php">
+
 
 <script src="js/vendor/modernizr-3.11.2.min.js"></script>
 <script src="js/plugins.js"></script>
